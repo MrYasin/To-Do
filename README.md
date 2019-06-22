@@ -1,4 +1,5 @@
-# To-Do page created using
+# To-Do
 
-MySql Database
-Sql Alchemy
+created using:
+  MySql Database
+  Sql Alchemy
